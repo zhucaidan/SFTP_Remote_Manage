@@ -4,4 +4,4 @@
 Manage and download remote Linux server files on Windows system.
 
 ## Windows：
-<img src="https://github.com/user-attachments/assets/98b2abf9-3d1d-40a2-bfdc-8b6a122f9fc5" alt="screenshoot-1" width="50%">
+<img src="https://github.com/user-attachments/assets/98b2abf9-3d1d-40a2-bfdc-8b6a122f9fc5" alt="screenshoot-1" width="70%">
